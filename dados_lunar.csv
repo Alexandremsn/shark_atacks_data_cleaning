@@ -1,0 +1,13 @@
+,Fatal (Y/N),lunar_phase,Contagem
+0,N,Last Full Quarter,983
+1,N,New,974
+2,N,Full,973
+3,N,First Quarter,933
+4,Y,Full,292
+5,Y,Last Full Quarter,274
+6,Y,First Quarter,271
+7,Y,New,249
+8,UNKNOWN,New,20
+9,UNKNOWN,First Quarter,17
+10,UNKNOWN,Last Full Quarter,12
+11,UNKNOWN,Full,11
