@@ -41,7 +41,16 @@ e geramos o percentual de cada fase, haviam diferenças e pareciam promissores o
 
 <img src="images/percentual.png">
 
-Criamos um degundo dataframe apenas com os dados esseciais a análise, e geramos este gáfico de correlação
+Geramos dois histogramas para verificar visualmente a correlação da variáveis.
+
+<img src="images/primeirohistograma.png">
+
+<img src="images/segundohistograma.png">
+
+não possuiem diferenças substanciais quanto ao seu formato, assim visualmente não parece ter correlação as variáveis.
+
+
+Criamos um segundo dataframe apenas com os dados esseciais a análise, e geramos este gáfico de correlação
 e no final verificamos uma correlação muito fraca quase inexistente.
 assim podemos concluir que as fases da lua não tem relação com a fatalidade e com a quantidade de ataques.
 
