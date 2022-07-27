@@ -43,9 +43,9 @@ e geramos o percentual de cada fase, haviam diferenças e pareciam promissores o
 
 Geramos dois histogramas para verificar visualmente a correlação da variáveis.
 
-<img src="images/faselunar fatal nao.png" alt="drawing" width="500">
+<img src="images/faselunar fatal nao (1).png" alt="drawing" width="500">
 
-<img src="images/faselunar fatal sim.png" alt="drawing" width="500">
+<img src="images/faselunar fatal sim (1).png" alt="drawing" width="500">
 
 não possuem diferenças substanciais quanto ao seu formato, assim visualmente não parece ter correlação as variáveis.
 
