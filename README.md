@@ -1,9 +1,37 @@
+<div align="center">
+<img src="images/logo.jpg">
+
 # shark_atacks_data_cleaning
+<div align="left">
 Limpeza de uma base de dados para realizar inferências sobre a existência ou não de correlação entre ataques de tubarão e fase lunar.
 
-Foram necessárias as bibliotecas abaixo para esta análise:
+## Tecnologia
 
-<img src="images/biblioteca.png" alt="libs"/>
+O software  usado neste projeto foi:
+
+* Python version  3.9.5
+
+## Serviços Usados
+
+* Github
+
+
+## Bibliotecas Python
+
+* Re
+* Pandas
+* Numpy
+* Datetime
+* Ephem
+* Matplotlib
+* Dython
+
+
+## Como foi feito
+
+Será descrito abaixo atravé de textos e imagens.
+
+
 
 Ao importar a base verificamos que existiam colunas com informação repetidas e colunas sem informação:
 
@@ -53,4 +81,28 @@ não possuem diferenças substanciais quanto ao seu formato, assim visualmente n
 Criamos um segundo dataframe apenas com os dados essenciais a análise, e geramos este gráfico de correlação e no final verificamos uma correlação muito fraca quase inexistente.
 assim podemos concluir que as fases da lua não tem relação com a fatalidade e com a quantidade de ataques.
 
-<img src="images/heat map.png" alt="drawing" width="500">
+
+## Recursos Usados
+
+  - Importação de Database
+  - Limpeza de dados
+  - Desenvolvimento de Aplicação
+  - Plotagem de Gáficos
+  - Análise de dados
+  - Criação de arquivo .csv
+  
+
+## Links
+
+  - Repositório: https://github.com/Alexandremsn/shark_atacks_data_cleaning
+  - Se for econtrado um bug, favor entrar em contato alexandremsneto1986@gmail.com
+
+
+## Versioning
+
+1.0.0.0
+
+
+## Autor
+
+* **Alexandre Machado da Silva Neto**: @alexandremsn (https://github.com/alexandremsn)
