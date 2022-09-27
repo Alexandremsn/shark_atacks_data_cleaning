@@ -29,7 +29,7 @@ O software  usado neste projeto foi:
 
 ## Como foi feito
 
-Será descrito abaixo atravé de textos e imagens.
+Será descrito abaixo através de textos e imagens.
 
 
 
@@ -75,7 +75,7 @@ Geramos dois histogramas para verificar visualmente a correlação da variáveis
 
 <img src="images/faselunar fatal sim (1).png" alt="drawing" width="500">
 
-não possuem diferenças substanciais quanto ao seu formato, assim visualmente não parece ter correlação as variáveis.
+Não possuem diferenças substanciais quanto ao seu formato, assim visualmente não parece ter correlação as variáveis.
 
 
 Criamos um segundo dataframe apenas com os dados essenciais a análise, e geramos este gráfico de correlação e no final verificamos uma correlação muito fraca quase inexistente.
@@ -95,7 +95,7 @@ assim podemos concluir que as fases da lua não tem relação com a fatalidade e
 ## Links
 
   - Repositório: https://github.com/Alexandremsn/shark_atacks_data_cleaning
-  - Se for econtrado um bug, favor entrar em contato alexandremsneto1986@gmail.com
+  - Se for encontrado um bug, favor entrar em contato alexandremsneto1986@gmail.com
 
 
 ## Versioning
